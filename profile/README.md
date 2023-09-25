@@ -1,7 +1,7 @@
 
 **Howdy!** If you're looking to empower yourself with the tools to craft your own cloud ecosystem, you've landed at the right spot.
 
-![](images/banner.png)
+![](https://github.com/taubyte/.github/blob/main/profile/images/banner.png?raw=true)
 
 
 **Taubyte** isn't just another cloud service provider. We are at the forefront of the cloud creation movement. Our tools, platforms, and methodologies are crafted keeping developers at the core, simplifying the process of constructing your very own cloud infrastructure.
