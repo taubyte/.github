@@ -4,7 +4,7 @@
 ![](https://github.com/taubyte/.github/blob/main/profile/images/banner.png?raw=true)
 
 
-**Taubyte** isn't just another cloud service provider. We are at the forefront of the cloud creation movement. Our tools, platforms, and methodologies are crafted keeping developers at the core, simplifying the process of constructing your very own cloud infrastructure.
+At **Taubyte** we are at the forefront of the cloud creation movement. Our tools, platforms, and methodologies are crafted keeping developers at the core, simplifying the process of constructing your very own cloud infrastructure.
 
 By leveraging cutting-edge technologies, and with our unwavering commitment to WebAssembly (WASM), we're paving the way for developers to architect an expansive, interoperable cloud ecosystem that spans everything from CDNs and 5G to AI capabilities. We're ushering in a future where every developer has the autonomy and tools to build their unique cloud space.
 
