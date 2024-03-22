@@ -1,11 +1,6 @@
 **Welcome to Taubyte! 🚀** Venture into a realm where infrastructure intelligently adapts and scales, empowering you to effortlessly bring ideas to a global audience.
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/banner.png">
-    <img width="100%" src="images/banner.png" alt="Infrastructure's Autopilot - Local Coding Equals Global Production">
-</picture>
-<br/>
-
+![](https://github.com/taubyte/.github/blob/main/profile/images/banner.png?raw=true)
 
 **Taubyte** redefines cloud computing, embodying the principle: **Infrastructure's Autopilot - Local Coding Equals Global Production.** We empower developers and platform engineers to innovate without the constraints of traditional cloud infrastructure management.
 
