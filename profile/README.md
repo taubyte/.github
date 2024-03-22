@@ -1,8 +1,8 @@
 **Welcome to Taubyte! 🚀** Venture into a realm where infrastructure intelligently adapts and scales, empowering you to effortlessly bring ideas to a global audience.
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/images/banner-v2.png">
-    <img width="100%" src="/images/banner-v2.png" alt="Infrastructure on Autopilot - Build Locally, Scale Globally, Effortlessly.">
+    <source media="(prefers-color-scheme: dark)" srcset="images/banner.png">
+    <img width="100%" src="images/banner.png" alt="Infrastructure's Autopilot - Local Coding Equals Global Production">
 </picture>
 <br/>
 
