@@ -7,7 +7,7 @@
 
 <h4 align="center">
 
-[![Discord](https://img.shields.io/discord/973677117722202152?color=%235865f2&label=discord)](https://discord.gg/wM8mdskh)
+[![Discord](https://img.shields.io/discord/973677117722202152?color=%235865f2&label=discord)](https://discord.gg/KbN3KN7kpQ)
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fdtaubyte)](https://x.com/dtaubyte)
 [![GitHub Repo stars](https://img.shields.io/github/stars/taubyte/tau)](https://github.com/taubyte/tau)
 
