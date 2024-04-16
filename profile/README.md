@@ -2,7 +2,7 @@
     <img src="https://github.com/taubyte/.github/blob/main/profile/images/banner.png?raw=true" alt="Taubyte"/>
 </p>
 <p align="center">
-  <i>An Open Source Cloud Platform with Autopilot, where coding in local environment equals scaling to global production. 🚀</i>
+  <i>An Open Source Cloud Platform on Autopilot, where coding in local environment equals scaling to global production. 🚀</i>
 </p>
 
 <h4 align="center">
