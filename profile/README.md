@@ -18,7 +18,7 @@ Taubyte is the company behind **Tau**, an open-source, Git-native platform-as-a-
 
 - [Tau](https://github.com/taubyte/tau) - Cloud platform in a single binary. Run serverless functions, host websites, manage databases, storage, and messaging.
   
-- [Dream](https://github.com/taubyte/tau/tree/main/dream) - Local environment that mirrors production. Code locally, scale globally.
+- [Dream](https://github.com/taubyte/dream) - Local environment that mirrors production. Code locally, scale globally.
 
 - [Spore Drive](https://github.com/taubyte/spore-drive) - Provide servers and credentials, Spore Drive creates your private cloud.
 
@@ -30,6 +30,7 @@ Taubyte is the company behind **Tau**, an open-source, Git-native platform-as-a-
 
 - [Documentation](https://taubyte.com/doc) - Learn how to use Taubyte
 - [Blog](https://taubyte.com/blog/) - Technical insights and updates
+
 
 
 
