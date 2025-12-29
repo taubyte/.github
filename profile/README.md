@@ -28,9 +28,9 @@
 </div>
 
 <div align="center">
-  <a href="https://taubyte.com/doc"><img src="images/documentation.png" width="32%"></a>
-  <a href="https://discord.gg/KbN3KN7kpQ"><img src="images/joindiscord.png" width="32%"></a>
-  <a href="https://taubyte.com/book-a-demo"><img src="images/requestademo.png" width="32%"></a>
+  <a href="https://taubyte.com/doc"><img src="images/documentation.png" width="25%"></a>
+  <a href="https://discord.gg/KbN3KN7kpQ"><img src="images/joindiscord.png" width="25%"></a>
+  <a href="https://taubyte.com/book-a-demo"><img src="images/requestademo.png" width="25%"></a>
 </div>
 
 <br/>
@@ -59,3 +59,4 @@ Taubyte is the company behind **Tau**, an open-source, Git-native platform-as-a-
 <div align="center">
   <sub>Built by the Taubyte team</sub>
 </div>
+
