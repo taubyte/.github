@@ -1,34 +1,39 @@
-<p align="center">
-    <img src="https://github.com/taubyte/.github/blob/main/profile/images/banner.png?raw=true" alt="Taubyte"/>
-</p>
-<p align="center">
-  <i>An Open Source Cloud Platform on Autopilot, where coding in local environment equals scaling to global production. 🚀</i>
-</p>
+<div align="center">
+  <img width="3408" height="548" alt="banner" src="images/banner.png" />
+</div>
 
-<h4 align="center">
+<div align="center">
+  <a href="https://taubyte.com"><img src="images/website.png" width="19%"></a>
+  <a href="https://www.linkedin.com/company/taubyte-page"><img src="images/linkedin.png" width="19%"></a>
+  <a href="https://discord.gg/KbN3KN7kpQ"><img src="images/discord.png" width="19%"></a>
+  <a href="https://taubyte.com/contact"><img src="images/email.png" width="19%"></a>
+  <a href="https://taubyte.com/book-a-demo"><img src="images/demo.png" width="19%"></a>
+</div>
 
-[![Discord](https://img.shields.io/discord/973677117722202152?color=%235865f2&label=discord)](https://discord.gg/KbN3KN7kpQ)
-[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fdtaubyte)](https://x.com/dtaubyte)
-[![GitHub Repo stars](https://img.shields.io/github/stars/taubyte/tau)](https://github.com/taubyte/tau)
+<br/>
 
-</h4>
+Taubyte is the company behind **Tau**, an open-source, Git-native platform-as-a-service for building, deploying, and scaling applications. Fully self-hosted with capabilities similar to Vercel, Firebase, and Cloudflare, plus built-in AI readiness.
 
----
 
-☁️ Build your own Cloud Computing Platform with [tau](https://github.com/taubyte/tau)
 
-🪄 Extend capabilities to AI and more with [orbit](https://github.com/taubyte/vm-orbit)
+- [Tau](https://github.com/taubyte/tau) - Cloud platform in a single binary. Run serverless functions, host websites, manage databases, storage, and messaging.
+  
+- [Dream](https://github.com/taubyte/dream) - Local environment that mirrors production. Code locally, scale globally.
 
-💻 Code and Test locally with [dreamland](https://github.com/taubyte/dreamland)
+- [Spore Drive](https://github.com/taubyte/spore-drive) - Provide servers and credentials, Spore Drive creates your private cloud.
 
-🧪 Write E2E unit tests with [libdream](https://github.com/taubyte/tau/tree/main/libdream)
+- [Orbit](https://github.com/taubyte/tau/tree/main/pkg/vm-orbit) - Plugin system to extend Tau with AI infrence and custom integrations.
 
-📚 Learn how to use Taubyte by reading the documentation at [https://tau.how](https://tau.how)
 
-⭐ Star us on [GitHub](https://github.com/taubyte/tau)
 
-🤵 Want to join our team, leave us a message on our [contact page](https://taubyte.com/contact/)
+### Resources
 
-⌨️ Start contribution by reading our [code of conduct](https://github.com/taubyte/tau/blob/main/CODE_OF_CONDUCT.md) and our [contribution guidelines](https://github.com/taubyte/tau/blob/main/CONTRIBUTING.md)
+- [Documentation](https://taubyte.com/doc) - Learn how to use Taubyte
+- [Blog](https://taubyte.com/blog/) - Technical insights and updates
 
-📄 Read our technical [blogs](https://taubyte.com/blog/)
+
+
+
+
+
+
