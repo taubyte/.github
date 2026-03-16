@@ -37,3 +37,7 @@ Taubyte is the company behind **Tau**, an open-source, Git-native platform-as-a-
 
 
 
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/615fde7a-377a-4f47-81af-8f1d29b3bb3d" controls width="90%"></video>
+</div>
